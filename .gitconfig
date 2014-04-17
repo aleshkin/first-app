@@ -1,0 +1,6 @@
+[user]
+	name = r.aleshkin
+	email = mail@supbox.ru
+[alias]
+	co = checkout
+	ci = commit
